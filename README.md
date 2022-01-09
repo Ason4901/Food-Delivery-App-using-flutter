@@ -1,4 +1,3 @@
-# ruralnfresh
 
 A new Flutter project.
 
